@@ -1,0 +1,7 @@
+Time and space complexity :- 
+
+o(n)
+o(n^2)
+o(n log n)
+
+further mathematical understanding in progress
