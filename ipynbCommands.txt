@@ -1,0 +1,25 @@
+Cell Type Conversion
+Shortcut	Action
+Y	Switch cell to Code
+M	Switch cell to Markdown
+Mode Switching
+Shortcut	Action
+Esc	Enter Command Mode (blue outline, lets you navigate and manage cells)
+Enter	Enter Edit Mode (green/solid outline, lets you type inside a cell)
+Running Code
+Shortcut	Action
+Shift + Enter	Run current cell and select next cell
+Ctrl + Enter	Run current cell and stay on it
+Alt + Enter	Run current cell and insert new cell below
+Cell Manipulation (Command Mode)
+Shortcut	Action
+A	Insert new cell above
+B	Insert new cell below
+D, D	Delete current cell (press D twice)
+Z	Undo last cell action (like an accidental deletion)
+X / C / V	Cut / Copy / Paste cells
+Navigation & View
+Shortcut	Action
+Up / Down Arrow keys	Move between cells
+O	Toggle cell output (hide/show results)
+Shift + L	Toggle line numbers inside the cell
