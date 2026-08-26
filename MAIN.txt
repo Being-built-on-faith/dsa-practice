@@ -1,0 +1,7 @@
+TOPICS AND CONCEPTS COVERED:-(THINKING & UNDERSTANDING)
+
+linear search
+binary search
+complexity O(n, log n, 1, n^2, n!, n log n)
+Arrays 
+Dynamic Arrays

@@ -1,0 +1,7 @@
+Head first Algorithm : https://learning.oreilly.com/library/view/head-first-algorithms/9781098174071/ch05.html#on_to_pass_three
+The Algorithm Design Manual:
+Computer Systems: A Programmer's Perspective :
+Designing Data-Intensive Applications : https://learning.oreilly.com/library/view/designing-data-intensive-applications/9781098119058/
+
+
+Completion of Understanding of these 4 books with full understanding.

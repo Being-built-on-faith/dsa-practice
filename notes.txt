@@ -5,3 +5,8 @@ o(n^2)
 o(n log n)
 
 further mathematical understanding in progress
+
+Notes i.e. 
+
+Weekly revision habbit i.e. On saturday needs to be established. And way forward On sunday.. 
+    So lets book first half for both i.e. sat and sun for the revision itself . Highest ROI.
