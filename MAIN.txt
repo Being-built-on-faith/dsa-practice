@@ -5,3 +5,6 @@ binary search
 complexity O(n, log n, 1, n^2, n!, n log n)
 Arrays 
 Dynamic Arrays
+    : amoritized O(1)
+insertion, deletion, searching
+Linked list.
