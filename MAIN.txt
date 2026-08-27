@@ -8,3 +8,7 @@ Dynamic Arrays
     : amoritized O(1)
 insertion, deletion, searching
 Linked list.
+single Linked list.
+Double Linked list.
+
+
